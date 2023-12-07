@@ -1,4 +1,4 @@
-Copyright 2021 McAfee, LLC
+Copyright 2023 Musarubra US LLC.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the
 following conditions are met:
